@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707260237458",
+    "project_id": "drogas-c8d5b",
+    "storage_bucket": "drogas-c8d5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707260237458:android:72be5db848202e0803884b",
+        "android_client_info": {
+          "package_name": "com.drogas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9u6DMlUMDZhgXlX36DK5Rc-pIK2zA8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
